@@ -1,0 +1,26 @@
+Relazione progetto client-server Tepsit
+
+
+implementazioni fatte nel codice:
+
+creazione delle tabelle su phpmyadmin
+
+gestione tabelle:
+-create
+-read
+-update
+-delete
+
+ulteriori implementazioni:
+
+server multithread
+lock()
+
+funzionalità desiderate:
+l’escape delle stringhe
+modulo stmpllib_mail.py
+
+beautifulsoup4         4.12.2
+bs4                    0.0.1
+mysql-connector-python 8.2.0
+pip                    21.2.3 
